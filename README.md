@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Oguz 👋
 
-<!--
-**ixmb/ixmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Istanbul, Turkey. I thrive in the Apple ecosystem and enjoy creating polished apps and tools. I love diving into clean code, exploring design patterns, and talking about software craftsmanship for hours.  
 
-Here are some ideas to get you started:
+### 🌱 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building products within the Apple ecosystem  
+- Sharpening my understanding of clean code and software design patterns  
+- Drawing inspiration from influential books like *The Seagull* by Jonathan Livingston  
+
+### 💬 What I can help with
+
+- Clean code principles & software design patterns  
+- Apple ecosystem development (macOS, iOS, watchOS)  
+
+### 📫 How to reach me
+
+- Email: mert@beyoglu.dev  
+- [Softwareize.net](http://softwareize.net/)  
+- Open an issue on this profile to start a conversation  
+
+### ⚡ Fun fact
+
+- My most influential book is *The Seagull* by Jonathan Livingston! 

@@ -16,7 +16,6 @@ I'm a software developer from Istanbul, Turkey. I thrive in the Apple ecosystem 
 ### 📫 How to reach me
 
 - Email: mert@beyoglu.dev  
-- [Softwareize.net](http://softwareize.net/)  
 - Open an issue on this profile to start a conversation  
 
 ### ⚡ Fun fact

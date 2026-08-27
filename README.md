@@ -21,3 +21,5 @@ I'm a software developer from Istanbul, Turkey. I thrive in the Apple ecosystem 
 ### ⚡ Fun fact
 
 - My most influential book is *The Seagull* by Jonathan Livingston! 
+
+![Metrics](github-metrics.svg)

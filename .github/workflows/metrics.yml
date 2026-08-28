@@ -25,6 +25,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Başarım Rozetleri (İsteğe Bağlı)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
